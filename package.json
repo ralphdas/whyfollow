@@ -1,0 +1,17 @@
+{
+  "name": "why_follow_nodejs_server",
+  "version": "0.0.1",
+  "description": "A small NodeJS server for Why-Follow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whyfollow"
+  ],
+  "author": "ralph.das@good-pick.it",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.3.0"
+  }
+}
