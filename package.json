@@ -12,6 +12,7 @@
   "author": "ralph.das@good-pick.it",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.13.4",
     "twitter": "^1.3.0"
   }
 }
